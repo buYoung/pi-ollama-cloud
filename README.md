@@ -1,5 +1,13 @@
 # @buyong/pi-ollama-cloud
 
+> **이 저장소의 유지보수는 종료되었습니다.** 소스와 전체 Git 이력은 [pi-packages/apps/pi-ollama-cloud](https://github.com/buYoung/pi-packages/tree/main/apps/pi-ollama-cloud)로 이전했습니다.
+>
+> npm 패키지 `@buyong/pi-ollama-cloud`는 계속 유지합니다. 기존 npm 사용자는 패키지명을 바꿀 필요가 없습니다. Git·수동 복제 설치 사용자는 [설치 전환 안내](https://github.com/buYoung/pi-packages/tree/main/apps/pi-ollama-cloud#업데이트와-이전-설치-전환)를 따르세요.
+>
+> 이슈와 변경 제안은 [pi-packages](https://github.com/buYoung/pi-packages/issues)에 남겨 주세요. 아래 내용은 이전 전 기록이며, 현재 개발·배포 절차는 새 저장소의 [유지보수 가이드](https://github.com/buYoung/pi-packages/blob/main/apps/pi-ollama-cloud/docs/maintaining.md)가 기준입니다.
+
+---
+
 Ollama Cloud provider plugin for the [Pi](https://pi.dev) coding agent.
 
 This fork of [fgrehm/pi-ollama-cloud](https://github.com/fgrehm/pi-ollama-cloud) uses the npm package name `@buyong/pi-ollama-cloud`.
